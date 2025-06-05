@@ -4,6 +4,8 @@ body {
 
 div#container {
     margin-top:5%;
+    border: 1px black solid;
+    background-color: aqua transparent;
 }
 
 div#space {
